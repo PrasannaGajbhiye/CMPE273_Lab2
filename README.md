@@ -15,7 +15,7 @@ Build & Run using following commands
 cd CMPE273_Lab2
 go get 
 go build
-./httpRouter.go
+./httprouter.go
 ```
 
 ### New terminal to make requests 
